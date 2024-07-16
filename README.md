@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lm_djabri@esi.dz**
 
-- ⚡ Fun fact **I think I am very good Aikidoka **![martial-arts](https://github.com/user-attachments/assets/8760bc6b-2262-4bdb-a3a2-5d81378bda7e)
+- ⚡ Fun fact **I think I am very good Aikidoka 🥋 **
 
 
 <h3 align="left">Connect with me:</h3>
