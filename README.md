@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lm_djabri@esi.dz**
 
-- ⚡ Fun fact **I think I am very good Aikidoka 🥋 **
+- ⚡ ** Aikidoka 🥋 , atlético **
 
 
 <h3 align="left">Connect with me:</h3>
