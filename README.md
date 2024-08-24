@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm DJABRI Maroua</h1>
 <h3 align="center">A passionate cs student at ESI ,mobile dev , front end dev and AI enthusiast</h3>
 
-- 🌱 I’m currently learning **ML , MERN Stack**
+- 🌱 I’m currently learning **ML**
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 💬 Ask me about **flutter , dart**
+- 💬 Ask me about **web and mobile dev **
 
 - 📫 How to reach me **lm_djabri@esi.dz**
 
